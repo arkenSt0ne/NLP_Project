@@ -1,6 +1,6 @@
 # NLP_Project
-Course Project for CS698O
+Course Project for CS698O Spring 2020 IITK  <br/>
 Memebers:
-Aditya Jain aditjain@iitk.ac.in
-Ankit Kumar Singh ankitaks@iitk.ac.in
-Nikunj Jha  nikunjj@iitk.ac.in
+Aditya Jain aditjain@iitk.ac.in <br/>
+Ankit Kumar Singh ankitaks@iitk.ac.in <br/>
+Nikunj Jha  nikunjj@iitk.ac.in <br/>
