@@ -1,6 +1,7 @@
 #user defined 
 RDoCTask2019TrainTestData/
-dataset.zip
+RDoCTask2019TestDataLabeled/
+*.zip
 .DS_Store
 
 
