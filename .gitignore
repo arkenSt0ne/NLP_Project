@@ -1,3 +1,10 @@
+#user defined 
+RDoCTask2019TrainTestData/
+RDoCTask2019TestDataLabeled/
+*.zip
+.DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
